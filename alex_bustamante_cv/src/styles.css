@@ -1,0 +1,9 @@
+*{
+  background-color: whitesmoke;
+}
+
+hr {
+    border: none; /* Remove the default border */
+    border-top: 3px solid black; /* Add a new border with the desired thickness and color */
+}
+
